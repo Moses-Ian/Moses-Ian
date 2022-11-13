@@ -1,16 +1,27 @@
-### Hi there 👋
+# Ian Moses
+[![portfolio](https://img.shields.io/badge/website-informational)](https://moses-ian.github.io/portfolio/)
 
-<!--
-**Moses-Ian/Moses-Ian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Full Stack Web Developer with an Engineering Background
+- Innovative problem solver
+- Skilled at seeing the big picture.
+- Along with the details of how to get there.
+- Strong math and engineering skills.
+- Works well in teams.
+- Fun fact: I'm also a welder. Ask me about the metal art I've made.
 
-Here are some ideas to get you started:
+## Hard Skills
+- JavaScript | Java/Kotlin | C#
+- React
+- CSS | SASS
+- PWA | Android Native
+- AWS | Node | Express | GraphQL | Socket.io
+- MongoDB | MySQL
+- Test-Driven Development | Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soft Skills
+- Teamwork | SCRUM | Kanban
+- Communication | Organization | Adaptability
+
+## Quotes
+> Do or do not. There is no try. - Master Yoda
