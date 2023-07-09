@@ -16,6 +16,7 @@ Full Stack Web Developer with an Engineering Background
 - CSS | SASS
 - PWA | Android Native
 - AWS | Node | Express | GraphQL | Socket.io
+- Selenium
 - MongoDB | MySQL
 - Test-Driven Development | Responsive Design
 
