@@ -1,6 +1,8 @@
 # Ian Moses
 [![portfolio](https://img.shields.io/badge/website-informational)](https://moses-ian.github.io/portfolio/)
 
+I support universal basic income because I know SO MANY people with ADD/ADHD.
+
 ## About
 Full Stack Web Developer with an Engineering Background
 - Innovative problem solver
